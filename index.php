@@ -6,5 +6,7 @@
         
         <h3>My First Heading</h3>
 
+        <p>My first paragraph.</p>
+
     </body>
 </html>
